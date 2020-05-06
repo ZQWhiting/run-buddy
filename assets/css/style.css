@@ -599,6 +599,10 @@ section {
         flex: 0 70%;
     }
 
+    .trainer-img {
+        min-height: 400px;
+    }
+
     .contact-info iframe {
         flex: 1 100%;
     }
@@ -616,6 +620,10 @@ section {
 
     .trainer-bio h3, .trainer-bio h4 {
         display: block;
+    }
+
+    .trainer-img {
+        min-height: 350px;
     }
 
     .step h3 {
